@@ -1,0 +1,9 @@
+INFO 2024-09-03 11:27:21,097 api 5848 4712 New User created: snehalr
+INFO 2024-09-03 11:27:55,217 api 5848 13104 User logged in: snehalr
+INFO 2024-09-03 11:28:25,365 api 5848 13104 User logged out: 
+INFO 2024-09-03 12:55:27,726 api 3780 6080 New User created: snehal7
+INFO 2024-09-03 12:57:01,997 api 3780 6080 User logged in: snehal7
+INFO 2024-09-03 15:05:25,110 api 8324 6812 User logged in: admin
+INFO 2024-09-03 15:24:12,044 api 6764 7568 User logged out: 
+INFO 2024-09-05 14:03:49,433 api 12492 6720 New User created: snehalr
+INFO 2024-09-05 14:04:24,895 api 12492 10160 User logged in: snehalr
